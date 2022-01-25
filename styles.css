@@ -1,0 +1,15 @@
+
+.decorado{
+  display:block;
+  width: 30%;
+  border: 10px solid red;
+  background-color: yellow;
+  margin: 20px;
+  padding: 20px;
+  color: blue;
+}
+
+
+#caja{
+  cursor:pointer;
+}
